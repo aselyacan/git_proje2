@@ -7,7 +7,7 @@ public class SecondDay {
 
 		System.out.println("First  connection to reposiotry ");
 		System.out.println("second commit from local repository ");
-		System.out.println("third commit from local repository ");
+		System.out.println("ucuncu commitimiz from local repository ");
 		System.out.println("First  commit from remote to local ");
 		
 		
