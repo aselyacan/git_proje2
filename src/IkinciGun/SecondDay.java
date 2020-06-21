@@ -10,7 +10,7 @@ public class SecondDay {
 
 		System.out.println("ucuncu commitimiz from local repository ");
 
-		System.out.println("conflict yapmak istiyoruz ");
+		System.out.println("weare against to conflict  ");
 
 		System.out.println("First  commit from remote to local ");
 		
