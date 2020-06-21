@@ -3,9 +3,10 @@ package IkinciGun;
 public class SecondDay {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// T ODO Auto-generated method stub
 
-		System.out.println("First  connection to reporsotry ");
+		System.out.println("First  connection to reposiotry ");
+		System.out.println("second commit from local repository ");
 	}
 
 }
