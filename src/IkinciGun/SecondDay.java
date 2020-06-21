@@ -7,11 +7,11 @@ public class SecondDay {
 
 		System.out.println("First  connection to reposiotry ");
 		System.out.println("second commit from local repository ");
-<<<<<<< HEAD
+
 		System.out.println("ucuncu commitimiz from local repository ");
-=======
+
 		System.out.println("conflict yapmak istiyoruz ");
->>>>>>> refs/remotes/origin/master
+
 		System.out.println("First  commit from remote to local ");
 		
 		
